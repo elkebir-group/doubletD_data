@@ -1,0 +1,4 @@
+loci,clone_id,snv_cluster,allele_affected,adjustment
+2,9,2,Ref,-1
+4,4,4,Ref,3
+6,8,6,Ref,-1
